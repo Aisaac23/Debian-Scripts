@@ -10,8 +10,12 @@ apt-get install firmware-brcm80211;
 
 /usr/sbin/modprobe -r brcmsmac;
 
-/usr/sbin/modprobe brcmsmac
+/usr/sbin/modprobe brcmsmac;
+
+exit
 "
+
+
 
 #Installation
 
