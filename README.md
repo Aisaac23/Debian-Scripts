@@ -1,2 +1,2 @@
 # Debian-Scripts
-Small Debian Linux shell scripts 
+Small shell scripts written in a Debian OS but might work for your OS too.
